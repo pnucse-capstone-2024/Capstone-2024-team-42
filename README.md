@@ -95,7 +95,7 @@ $ bash deploy-code.sh -ccn {체인코드명} -ccp {체인코드위치} -ccv {버
 먼저, 새로운 노드를 위한 인증서를 RegistryMSP 에서 발급받습니다.
 
 ```bash
-$ cd ./netork/node-connection-network
+$ cd ./network/node-connection-network
 $ ./organizations/fabric-ca/registerPeer1.sh
 ```
 
