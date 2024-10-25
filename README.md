@@ -22,6 +22,14 @@
 
 ### 2.1. 시스템 구성도
 
+- **기술 스택**
+
+![system-configuration](https://github.com/user-attachments/assets/a01fd80a-70ca-48d7-ac3c-a8424e0128ad)
+
+- **서비스 흐름도**
+
+![service-flow](https://github.com/user-attachments/assets/83db3c55-1949-4a40-bd72-ec2f6bc18b77)
+
 ### 2.2. 사용 기술
 
 본 프로젝트 개발 환경은 다음과 같습니다.
