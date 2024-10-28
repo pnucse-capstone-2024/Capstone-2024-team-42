@@ -208,7 +208,17 @@ $ yarn build
 $ yarn start
 ```
 
-## 4. 시연 영상
+## 4. 소개 및 시연 영상
+
+- **원본 저장소**
+
+[node-connection-backend](https://github.com/node-connection/node-connection-backend.git)
+
+[node-connection-frontend](https://github.com/node-connection/node-connection-frontend.git)
+
+- **시연 영상**
+
+[![2024년 전기 졸업과제 42 노드커넥션](http://img.youtube.com/vi/fMZuQmW3RKg/0.jpg)](https://www.youtube.com/watch?v=fMZuQmW3RKg)
 
 ## 5. 팀 소개
 
